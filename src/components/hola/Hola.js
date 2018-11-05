@@ -14,7 +14,7 @@ const Hola = () =>
         Soy una desarrolladora web que disfruta de crear a través de la tecnología. Entusiasta del autoaprendizaje y fanática del machine learning. Amante de la pizza, los robots y la ciencia ficción.
         </p>
         <p>
-        Me gusta el trabajo en equipo porque me permite aprender a través de personas con diversos perfiles. Practico la metodología ágil y considero la comunicación eficaz lo más importante para la realización de un proyecto.Holi
+        Me gusta el trabajo en equipo porque me permite aprender a través de personas con diversos perfiles. Practico la metodología ágil y considero la comunicación eficaz lo más importante para la realización de un proyecto.
         </p>
       </section>
     </div>
