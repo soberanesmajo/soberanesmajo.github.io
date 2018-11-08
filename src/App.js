@@ -5,6 +5,7 @@ import Hola from './components/hola/Hola';
 import Proyectos from './components/proyectos/Proyectos';
 import Background from './components/background/Background';
 import Habilidades from './components/habilidades/Habilidades';
+import Contacto from './components/contacto/Contacto';
 
 class App extends Component {
   render() {
@@ -15,6 +16,7 @@ class App extends Component {
         <Hola/>
         <Proyectos/>
         <Habilidades/>
+        <Contacto/>
       </div>
     );
   }
