@@ -1,15 +1,15 @@
 {
-  "main.css": "/static/css/main.e139bbb2.chunk.css",
-  "main.js": "/static/js/main.7b0ca08d.chunk.js",
-  "main.js.map": "/static/js/main.7b0ca08d.chunk.js.map",
+  "main.css": "/static/css/main.d57aaeae.chunk.css",
+  "main.js": "/static/js/main.6de1f73e.chunk.js",
+  "main.js.map": "/static/js/main.6de1f73e.chunk.js.map",
   "static/js/1.a700ff87.chunk.js": "/static/js/1.a700ff87.chunk.js",
   "static/js/1.a700ff87.chunk.js.map": "/static/js/1.a700ff87.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.e139bbb2.chunk.css.map": "/static/css/main.e139bbb2.chunk.css.map",
+  "static/css/main.d57aaeae.chunk.css.map": "/static/css/main.d57aaeae.chunk.css.map",
   "static/media/MajoSoberanes.gif": "/static/media/MajoSoberanes.2463c506.gif",
   "static/media/background.css": "/static/media/stars1.874b8e1d.png",
   "index.html": "/index.html",
-  "precache-manifest.bb657fff350c6b9bae931a3e7d079a3d.js": "/precache-manifest.bb657fff350c6b9bae931a3e7d079a3d.js",
+  "precache-manifest.01df7d81115751b6e009b7e7cd775021.js": "/precache-manifest.01df7d81115751b6e009b7e7cd775021.js",
   "service-worker.js": "/service-worker.js"
 }
