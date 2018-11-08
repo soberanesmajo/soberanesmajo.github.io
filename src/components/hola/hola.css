@@ -1,9 +1,8 @@
-h1 {
+/* h1 {
     text-align: center;
-    margin-right: 0%;
     color: #FD907B;
     font-size: 350%;
-}
+} */
 
 p {
     margin-top: 10%;
@@ -12,4 +11,8 @@ p {
 
 #hi {
     margin-top: 25%;
+    text-align: center;
+    color: #FD907B;
+    font-size: 350%;
+    font-family: 'Ubuntu', sans-serif;
 }
