@@ -3,8 +3,6 @@ import './contacto.css';
 
 const Contacto = () =>
   <footer className="container-fluid contacto">
-    <h1 className="contacto-rosa">Contacto</h1>
-    <p className="pregunta-contacto">Si deseas más información, contáctame.</p>
     <div className="row">
       <i className="font fas fa-envelope-square"></i>
       <i className="font fas fa-phone-square"></i>
