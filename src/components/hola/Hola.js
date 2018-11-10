@@ -3,7 +3,7 @@ import './hola.css';
 import Foto from '../foto/Foto';
 
 const Hola = () =>
-  <div className="container">
+  <div id="hola" className="container">
     <div className="row">
       <section className="col-xs-12 col-sm-12 col-md-12 col-lg-6">
         <Foto/>
@@ -16,6 +16,9 @@ const Hola = () =>
         <p>
         Me gusta el trabajo en equipo porque me permite aprender a través de personas con diversos perfiles. Practico la metodología ágil y considero la comunicación eficaz lo más importante para la realización de un proyecto.
         </p>
+        <div className="btn-cv">
+          <a href="m" download="Majo_Soberanes_CV"><button type="button" className="btn btn-outline-light">Descarga CV</button></a>
+        </div>
       </section>
     </div>
   </div>

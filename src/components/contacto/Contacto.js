@@ -2,12 +2,12 @@ import React from 'react';
 import './contacto.css';
 
 const Contacto = () =>
-  <footer className="container-fluid contacto">
+  <footer id="contacto" className="container-fluid contacto">
     <div className="row">
-      <i className="font fas fa-envelope-square"></i>
-      <i className="font fas fa-phone-square"></i>
-      <i className="font fab fa-github-square"></i>
-      <i className="font fab fa-linkedin"></i>
+      <a className="linkC" href="mailto:soberanesmajo@gmail.com"><i className="font fas fa-envelope-square"></i></a>
+      <a className="linkC" href="https://github.com/soberanesmajo"><i className="font fab fa-github-square"></i></a>
+      <a className="linkC" href="https://www.linkedin.com/in/soberanesmajo/"><i className="font fab fa-linkedin"></i></a>
+      <a className="linkC" href="https://twitter.com/MajoSoberanes"><i className="font fab fa-twitter-square"></i></a>
     </div>
   </footer>
 

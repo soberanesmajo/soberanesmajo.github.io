@@ -2,18 +2,18 @@ import React from 'react';
 import './navbar.css';
 
 const Navbar = () =>
-  <ul className="nav justify-content-center">
+  <ul className="nav justify-content-center fixed-top">
     <li className="nav-item">
-      <a className="nav-link active" href="Hola">¡Hola!</a>
+      <a className="nav-link" href="#hola">¡Hola!</a>
     </li>
     <li className="nav-item">
-      <a className="nav-link" href="Proyectos">Proyectos</a>
+      <a className="nav-link" href="#proyectos">Proyectos</a>
     </li>
     <li className="nav-item">
-      <a className="nav-link" href="Habilidades">Habilidades</a>
+      <a className="nav-link" href="#habilidades">Habilidades</a>
     </li>
     <li className="nav-item">
-      <a className="nav-link" href="Contacto">Contacto</a>
+      <a className="nav-link" href="#contacto">Contacto</a>
     </li>
   </ul>
 

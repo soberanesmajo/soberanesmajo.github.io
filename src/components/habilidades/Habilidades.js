@@ -2,7 +2,7 @@ import React from 'react';
 import './habilidades.css';
 
 const Habilidades = () =>
-  <div>
+  <div id="habilidades">
     <h1 className="habilidades">Habilidades</h1>
     <section className="container">
       <div className="row">
@@ -11,9 +11,8 @@ const Habilidades = () =>
         <i className="devicon-html5-plain-wordmark"></i>
         <i className="devicon-css3-plain-wordmark"></i>
         <i className="devicon-git-plain-wordmark"></i>
-        <i className="devicon-github-plain"></i>
-        <i className="devicon-nodejs-plain-wordmark"></i>
-        <i className="devicon-bootstrap-plain"></i>
+        <i class="devicon-github-plain-wordmark"></i>
+        <i class="devicon-bootstrap-plain-wordmark"></i>
       </div>
     </section>
   </div>

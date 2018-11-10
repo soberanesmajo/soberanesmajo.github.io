@@ -12,19 +12,20 @@
         color: antiquewhite;
         text-align: center;
     }
-
+    
     .container-fluid {
         width: 100%;
     }
-
+    
     .majo-soberanes {
         text-align: center;
         color: #FD907B;
         font-size: 350%;
-        font-family: 'Ubuntu', sans-serif
+        font-family: 'Ubuntu', sans-serif;
     }
-
+    
     .majo-front {
+        /* height: 50vh; Pregintar a alguien esto */
         margin-top: 20%;
         margin-left: auto;
         margin-right: auto;
