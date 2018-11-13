@@ -11,8 +11,8 @@ const Habilidades = () =>
         <i className="devicon-html5-plain-wordmark"></i>
         <i className="devicon-css3-plain-wordmark"></i>
         <i className="devicon-git-plain-wordmark"></i>
-        <i class="devicon-github-plain-wordmark"></i>
-        <i class="devicon-bootstrap-plain-wordmark"></i>
+        <i className="devicon-github-plain-wordmark"></i>
+        <i className="devicon-bootstrap-plain-wordmark"></i>
       </div>
     </section>
   </div>

@@ -1,10 +1,37 @@
+@keyframes move-twink-back {
+    from {background-position:0 0;}
+    to {background-position:-10000px 5000px;}
+}
+@-webkit-keyframes move-twink-back {
+    from {background-position:0 0;}
+    to {background-position:-10000px 5000px;}
+}
+@-moz-keyframes move-twink-back {
+    from {background-position:0 0;}
+    to {background-position:-10000px 5000px;}
+}
+@-ms-keyframes move-twink-back {
+    from {background-position:0 0;}
+    to {background-position:-10000px 5000px;}
+}
+
     .stars {
-        background-image: url("../../assets/stars1.png");
-        width: 100vw;
-        height: 100vh;
-        padding: 0;
-        margin:0;
+        /* position:absolute; */
         display: flex;
+        margin: 0;
+        padding: 0;
+        
+        width:100vw;
+        height:100vh;
+        display:block;
+        background:transparent url(http://3.bp.blogspot.com/-FwB8aSiMBmI/U4t9MkimRrI/AAAAAAAAMK0/FAlqX8ZFyu8/s1600/twinkling.png) repeat top center;
+        z-index:-2;
+
+        -moz-animation:move-twink-back 300s linear infinite;
+        -ms-animation:move-twink-back 300s linear infinite;
+        -o-animation:move-twink-back 300s linear infinite;
+        -webkit-animation:move-twink-back 300s linear infinite;
+        animation:move-twink-back 300s linear infinite;
     }
     
     h3 {
@@ -15,6 +42,7 @@
     
     .container-fluid {
         width: 100%;
+        background:#000 url(http://1.bp.blogspot.com/-q7NYia_DjQI/U4t7_J4gwwI/AAAAAAAAMKo/nru4YxfjK6I/s1600/estrellas.png) repeat top center;
     }
     
     .majo-soberanes {
@@ -25,9 +53,14 @@
     }
     
     .majo-front {
-        /* height: 50vh; Pregintar a alguien esto */
-        margin-top: 20%;
+        height: 100vh;
+        width: 100vw;
+        position: absolute;
         margin-left: auto;
         margin-right: auto;
-    }
+        align-content: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    } 
     

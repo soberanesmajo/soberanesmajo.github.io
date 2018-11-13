@@ -2,3 +2,16 @@
     color: #FD907B;
     margin-top: 20%;
 }
+
+.card {
+    width: 18rem;
+    margin-left: 15px;
+}
+
+.container {
+    flex-wrap: wrap;
+}
+
+.center {
+    justify-content: center;
+}

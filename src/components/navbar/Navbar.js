@@ -2,7 +2,7 @@ import React from 'react';
 import './navbar.css';
 
 const Navbar = () =>
-  <ul className="nav justify-content-center fixed-top">
+  <ul className="nav justify-content-center position-fixed">
     <li className="nav-item">
       <a className="nav-link" href="#hola">¡Hola!</a>
     </li>

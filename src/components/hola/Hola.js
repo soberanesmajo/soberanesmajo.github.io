@@ -17,7 +17,7 @@ const Hola = () =>
         Me gusta el trabajo en equipo porque me permite aprender a través de personas con diversos perfiles. Practico la metodología ágil y considero la comunicación eficaz lo más importante para la realización de un proyecto.
         </p>
         <div className="btn-cv">
-          <a href="m" download="Majo_Soberanes_CV"><button type="button" className="btn btn-outline-light">Descarga CV</button></a>
+          <a href="https://github.com/soberanesmajo/soberanesmajo.github.io/raw/ramamajo/src/assets/CV.pdf" download="Majo_Soberanes_CV"><button type="button" className="btn btn-outline-light">Descarga CV</button></a>
         </div>
       </section>
     </div>
