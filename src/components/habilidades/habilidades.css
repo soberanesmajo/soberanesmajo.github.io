@@ -19,3 +19,8 @@ i {
     color: #FD907B;
     font-size: 350%;
 }
+
+.row {
+    margin: auto;
+    display: flex;
+}

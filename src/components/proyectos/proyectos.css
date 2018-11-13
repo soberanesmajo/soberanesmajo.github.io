@@ -1,11 +1,14 @@
 #projects {
+    text-align: center;
     color: #FD907B;
-    margin-top: 20%;
+    font-size: 350%;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 .card {
     width: 18rem;
     margin-left: 15px;
+    border-color: antiquewhite !important;
 }
 
 .container {
@@ -14,4 +17,27 @@
 
 .center {
     justify-content: center;
+}
+
+.card-body {
+    background-color: black;
+}
+
+/* .btn-center {
+    justify-content: center;
+    align-items: center;
+} */
+
+button {
+    border-color: #95D0DC !important;   
+    color: antiquewhite !important;
+}
+
+a :hover {
+    background-color: #95D0DC !important;
+}
+
+.card-title {
+    color: #FD907B;
+    text-align: center;
 }
