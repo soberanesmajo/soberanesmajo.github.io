@@ -23,10 +23,12 @@
     background-color: black;
 }
 
-/* .btn-center {
-    justify-content: center;
-    align-items: center;
-} */
+.btn-center {
+    /* justify-content: center;
+    align-items: center; */
+    text-align: center;
+
+}
 
 button {
     border-color: #95D0DC !important;   
