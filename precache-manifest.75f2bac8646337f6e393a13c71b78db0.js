@@ -8,8 +8,8 @@ self.__precacheManifest = [
     "url": "/static/media/sci-fi_blog.6be08db4.png"
   },
   {
-    "revision": "f6f1bfce6d0d463aec772a04fa8fc5f0",
-    "url": "/static/media/data_dashboard.f6f1bfce.png"
+    "revision": "8b672834547e3dd5b6a2bfa9d73e8ecc",
+    "url": "/static/media/data.8b672834.png"
   },
   {
     "revision": "2463c50671a631ebeee93c7548064529",
@@ -20,19 +20,19 @@ self.__precacheManifest = [
     "url": "/static/js/runtime~main.229c360f.js"
   },
   {
-    "revision": "1e01eeed6e5306ab975b",
-    "url": "/static/js/main.1e01eeed.chunk.js"
+    "revision": "bb5cf0a3de32484e051d",
+    "url": "/static/js/main.bb5cf0a3.chunk.js"
   },
   {
     "revision": "d44403e2ce4e8f848d28",
     "url": "/static/js/1.d44403e2.chunk.js"
   },
   {
-    "revision": "1e01eeed6e5306ab975b",
-    "url": "/static/css/main.aca406b4.chunk.css"
+    "revision": "bb5cf0a3de32484e051d",
+    "url": "/static/css/main.6fb21cdd.chunk.css"
   },
   {
-    "revision": "1fa9e78f3dff7c976b8da511d4bf4f07",
+    "revision": "3b68cab048839bf4fd2b23d6aa617b6f",
     "url": "/index.html"
   }
 ];
