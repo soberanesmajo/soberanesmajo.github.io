@@ -1,11 +1,12 @@
 p {
-    margin-top: 10%;
+    /* margin-top: 10%; */
     color: antiquewhite;
     font-size: 1em;
 }
 
 #hi {
-    margin-top: 25%;
+    margin-top: .5em;
+    margin-bottom: .7em;
     text-align: center;
     color: #FD907B;
     font-size: 350%;

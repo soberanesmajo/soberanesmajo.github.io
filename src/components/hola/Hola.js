@@ -18,7 +18,7 @@ const Hola = () =>
         </p>
         <div className="btn-cv">
           <a href="https://github.com/soberanesmajo/soberanesmajo.github.io/raw/ramamajo/src/assets/CV.pdf" download="Majo_Soberanes_CV"><button type="button" className="btn btn-outline-light">Descarga CV</button></a>
-          <a href="https://drive.google.com/drive/folders/1YFuSneOczHl7qY9YOd3gcxNyq9hSLFiW" download="Majo_Soberanes_CV"><button type="button" className="btn btn-outline-light">Ver CV</button></a>
+          <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1O87XtlmSLVLO9obbXp_mr04hJamVeBru/view"><button type="button" className="btn btn-outline-light">Ver CV</button></a>
         </div>
       </section>
     </div>
