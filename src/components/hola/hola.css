@@ -23,3 +23,7 @@ p {
 .btn{
     margin:2%;
 }
+
+#text {
+    text-align: center;
+}

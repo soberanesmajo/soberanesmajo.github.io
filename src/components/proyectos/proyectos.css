@@ -8,6 +8,7 @@
 }
 
 .card {
+    min-height: 446px;
     max-width: 18rem;
     margin-left: 15px;
     border-color: antiquewhite !important;
